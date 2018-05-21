@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #库文件的位置，和对应的版本号（对应的版本号下的代码）
   s.source       = { :git => "https://github.com/dhhd917/testMypod.git", :tag => s.version }
   #需要的代码文件(A/**/*.{h.m} 表示A文件夹及其子文件夹下的所有.h.m文件)
-  s.source_files  = "RunTimeTest/MyPod/**/*.{h,m}"
+  s.source_files  = "RunTimeTest/RunTimeTest/MyPod/**/*.{h,m}"
 
   #arc模式
   s.requires_arc = true
