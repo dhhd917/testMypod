@@ -111,8 +111,7 @@
 				0499A52A20B25652002D6734 /* AppDelegate.m */,
 				0499A52C20B25652002D6734 /* ViewController.h */,
 				0499A52D20B25652002D6734 /* ViewController.m */,
-				0499A55B20B256A0002D6734 /* NSObject+AssociatedObject.h */,
-				0499A55C20B256A0002D6734 /* NSObject+AssociatedObject.m */,
+				0499A56120B2C4EB002D6734 /* MyPod */,
 				0499A55E20B25A7B002D6734 /* UITapGestureRecognizer+NSString.h */,
 				0499A55F20B25A7B002D6734 /* UITapGestureRecognizer+NSString.m */,
 				0499A52F20B25652002D6734 /* Main.storyboard */,
@@ -140,6 +139,15 @@
 				0499A54F20B25655002D6734 /* Info.plist */,
 			);
 			path = RunTimeTestUITests;
+			sourceTree = "<group>";
+		};
+		0499A56120B2C4EB002D6734 /* MyPod */ = {
+			isa = PBXGroup;
+			children = (
+				0499A55B20B256A0002D6734 /* NSObject+AssociatedObject.h */,
+				0499A55C20B256A0002D6734 /* NSObject+AssociatedObject.m */,
+			);
+			path = MyPod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
